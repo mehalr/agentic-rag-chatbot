@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+langchain-google-genai
+langchain-core
+bs4
+langchain-community
+langchain-text-splitters
+chromadb
+nest-asyncio
